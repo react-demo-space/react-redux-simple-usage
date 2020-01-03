@@ -22,7 +22,7 @@ function mapStateToProps(state) {
   return {
     count: state.count
   }
-}j
+}
 
 // Map Redux actions to component props
 // 负责输出逻辑，即将用户对 UI 组件的操作映射成 Action 
